@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Manas Pandey",
+    "label": "Researcher | Developer | Engineer",
+    "image": "",
+    "email": "manas.369p@gmail.com",
+    "phone": "+91 (933) 535-7678",
+    "url": "https://carb0ned0.github.io/",
+    "summary": "Recent ECE graduate with a strong foundation in Software and AI development, Embedded Systems, and Signal Processing. Currently Looking to leverage my skills in a dynamic role that fosters innovation and growth."
+  },
+  "work": [
+    {
+      "name": "Wireless Communication Engineering Laboratory, Manipal University Jaipur",
+      "position": "Associate Researcher in Study of Spectrum Sensing Techniques",
+      "startDate": "Feb 2022",
+      "endDate": "Feb 2023",
+      "location": "Jaipur, India",
+      "summary": "Implemented a physical experimental setup for energy detection-based spectrum sensing using Software Defined Radio (SDR) and GNU Radio. Addressed challenges in spectrum sensing, such as processing delay, false alarms, misdetection, and weak signal detection. Developed and tested efficient spectrum sensing algorithms to improve detection performance. Performed statistical data analysis and interpretation of the experimental results to validate the effectiveness of the implemented system. Contributed to the development of a flexible and scalable spectrum sensing test bench for future research.",
+      "highlights": ["Algorithms", "Spectrum Sensing", "Cognitive Radio", "Signal Processing", "Software-Defined Radio (SDR)"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Manipal University Jaipur, Jaipur, India",
+      "location": "Jaipur, India",
+      "url": "https://jaipur.manipal.edu/",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "Oct 2021",
+      "endDate": "Nov 2025"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Power Electronics",
+      "issuer": "University of Colorado Boulder on Coursera",
+      "url": "https://coursera.org/share/55887f75bfb770bbedc2d4931b1aa464",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "IBM Generative AI Engineering",
+      "issuer": "IBM on Coursera",
+      "url": "https://coursera.org/share/fa4373fa714757d75d9d48cc2542bf2a",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "MATLAB Programming for Engineers and Scientists",
+      "issuer": "Vanderbilt University on Coursera",
+      "url": "https://coursera.org/share/2ea572928d45620706275e2eeb862198",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "IBM Deep Learning with PyTorch, Keras and Tensorflow",
+      "issuer": "IBM on Coursera",
+      "url": "https://coursera.org/share/00eae23898af16b94f17fe78e9c51c89",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "MLOps | Machine Learning Operations",
+      "issuer": "Duke University on Coursera",
+      "url": "https://coursera.org/share/4a361c7366b464214cb945beea8d2f44",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "IBM Data Science",
+      "issuer": "IBM on Coursera",
+      "url": "https://coursera.org/share/b22bc16d8e5ea48c6387273e0872c8ef",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "DeepLearning.AI TensorFlow Developer",
+      "issuer": "DeepLearning.AI on Coursera",
+      "url": "https://coursera.org/share/cd7e82b46839196ffeef5d74e7f0a4e8",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Foundation of Ethical Hacking",
+      "issuer": "Udacity",
+      "url": "https://www.udacity.com/certificate/e/2b13ce80-b7ba-11ef-8f18-37dbcd26b599",
+      "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Experimental Investigation on Spectrum Sensing Testbed Using GNU Radio and SDR",
+      "publisher": "Springer Nature",
+      "releaseDate": "2023-05-23",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-99-2710-4_24",
+      "summary": "Designed and implemented a proficient, energy detection-based spectrum sensing system using Software-Defined Radio (SDR) and GNU Radio. This work successfully established a physical test bench for validating future cognitive radio research."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "Python",
+        "C/C++",
+        "MATLAB",
+        "JavaScript",
+        "HTML/CSS",
+        "SQL",
+        "ROS",
+        "OpenCV",
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Scikit-Learn",
+        "FastAPI",
+        "Streamlit",
+        "Git"
+      ]
+    },
+    {
+      "name": "Electronics & Embedded Systems",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "PCB Design",
+        "IoT",
+        "Arduino",
+        "Raspberry Pi",
+        "Microcontrollers (ESP32, STM32)",
+        "Signal Processing",
+        "RF Circuit Design",
+        "Software-Defined Radio (SDR)",
+        "GNU Radio",
+        "MATLAB Simulink",
+        "LTSpice",
+        "CST Suite"
+      ]
+    },
+    {
+      "name": "Data & AI",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Data Analysis",
+        "Predictive Modeling",
+        "NLP",
+        "Reinforcement Learning"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Flexible Microstrip Patch Antenna",
+      "summary": "Built a flexible microstrip patch antenna from scratch, including design, simulation, and fabrication for wireless communication applications.",
+      "highlights": ["Antenna Design", "RF", "Simulation"],
+      "url": "/projects/project01/"
+    },
+    {
+      "name": "BareCodeX",
+      "summary": "An educational video codec written in C++ from scratch. It demonstrates fundamental video compression techniques by converting raw RGB video to YUV420, applying delta encoding between frames, and compressing the result with DEFLATE (zlib).",
+      "highlights": ["C++", "Video Codec", "Compression", "YUV420", "Zlib"],
+      "url": "/projects/project02/"
+    },
+    {
+      "name": "Cognitive Radio for Spectrum Sensing",
+      "summary": "Developed a practical, low-cost testbed using SDR and GNU Radio to experimentally validate energy detection-based spectrum sensing for Cognitive Radio networks.",
+      "highlights": ["SDR", "GNU Radio", "Cognitive Radio", "Spectrum Sensing"],
+      "url": "/projects/project03/"
+    },
+    {
+      "name": "C-Like",
+      "summary": "A Python interpreter for 'CLIKE,' a custom C-like language, featuring a lexer, recursive-descent parser, AST, semantic analyzer, and call stack.",
+      "highlights": ["Python", "Interpreter", "Parser", "AST"],
+      "url": "/projects/project04/"
+    },
+    {
+      "name": "NovaEdit",
+      "summary": "A dual-mode text editor written in Python from scratch. Features a fast terminal UI, a tabbed tkinter GUI, and syntax highlighting.",
+      "highlights": ["Python", "Text Editor", "GUI", "Terminal UI"],
+      "url": "/projects/project05/"
+    },
+    {
+      "name": "GitLite",
+      "summary": "A C++ implementation of core Git functionalities. Understand blobs, trees, commits, SHA-1 hashing, and zlib compression by exploring this simplified version control system.",
+      "highlights": ["C++", "Version Control", "Git", "SHA-1", "Zlib"],
+      "url": "/projects/project06/"
+    },
+    {
+      "name": "DBLite",
+      "summary": "A lightweight, in-memory, Redis-like database in pure Python. Supports strings, lists, hashes, sets, key expiry, and optional gevent concurrency.",
+      "highlights": ["Python", "Database", "In-memory", "Redis-like"],
+      "url": "/projects/project07/"
+    },
+    {
+      "name": "HTTP-Server",
+      "summary": "A non-blocking, event-driven HTTPS/WSGI server in Python built from scratch using the selectors module.",
+      "highlights": ["Python", "Web Server", "Non-blocking", "Event-driven"],
+      "url": "/projects/project08/"
+    },
+    {
+      "name": "Large Language Model from Scratch",
+      "summary": "Built a large language model from scratch, including architecture design and training using PyTorch.",
+      "highlights": ["LLM", "PyTorch", "NLP"],
+      "url": "/projects/project10/"
+    },
+    {
+      "name": "Fine-Tuning LLM",
+      "summary": "Fine-tuned a large language model for specific tasks using transfer learning techniques.",
+      "highlights": ["Fine-Tuning", "LLM", "Transfer Learning"],
+      "url": "/projects/project11/"
+    },
+    {
+      "name": "Reinforcement Learning Game Bot",
+      "summary": "Developed a game bot using reinforcement learning techniques to play and master various games. Implemented deep Q-learning algorithms to enable the bot to learn optimal strategies through trial and error.",
+      "highlights": ["Reinforcement Learning", "Game Development", "Deep Q-Learning", "AI"],
+      "url": "/projects/project15/"
+    }
+  ]
+}

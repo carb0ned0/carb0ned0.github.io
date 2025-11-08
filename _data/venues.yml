@@ -1,0 +1,22 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"Vision":
+  color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org
+  color: "#f06540"
+
+"biorXiv":
+  url: https://www.biorxiv.org  
+  color: "#f06540"
+
+"Springer Nature":
+  url: https://link.springer.com
+  color: "#025e8d
+"

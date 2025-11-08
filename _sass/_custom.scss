@@ -1,0 +1,5 @@
+/* Custom overrides for highlights badges to match keywords */
+.card-text.list-group-flush .list-group-item .badge.badge-secondary {
+  background-color: var(--global-theme-color) !important;
+  color: var(--global-card-bg-color) !important;
+}
